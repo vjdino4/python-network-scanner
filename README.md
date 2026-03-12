@@ -25,6 +25,14 @@ This project demonstrates:
 - Multithreading in Python
 - Service identification
 
+# Repository Looks Like:
+python-network-scanner
+│
+├── scanner.py
+├── README.md
+├── scan_results.txt
+└── screenshots
+     └── scan_example.png
 # Author
 Cybersecurity learner building security tools with Python.
 
