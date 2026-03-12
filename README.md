@@ -17,13 +17,13 @@ A multithreaded network scanner built using Python to detect open ports and serv
 
 ## How It Works
 The scanner attempts to connect to ports on a target host using TCP sockets. If the connection succeeds, the port is marked as open and the associated service is displayed.
-Learning Objectives
 
-# This project demonstrates:
-Network reconnaissance
-Port scanning techniques
-Multithreading in Python
-Service identification
+# Learning Objectives
+This project demonstrates:
+- Network reconnaissance
+- Port scanning techniques
+- Multithreading in Python
+- Service identification
 
 # Author
 Cybersecurity learner building security tools with Python.
