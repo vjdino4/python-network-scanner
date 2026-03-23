@@ -71,8 +71,6 @@ Network service identification
 ## 📸Screenshots
 Outouts.pdf
 
-▶️ Usage
-
 ## Run the script:
 python scanner.py
 
