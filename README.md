@@ -41,7 +41,7 @@ python-network-scanner/
 ├── Outputs.pdf
 ├── README.md
 ├── scan_results.txt
-└── scanner.py
+├── scanner.py
 
 ---
 
